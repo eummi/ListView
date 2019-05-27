@@ -16,5 +16,10 @@ namespace ListView
         {
             InitializeComponent();
         }
+
+        private void LvView_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
